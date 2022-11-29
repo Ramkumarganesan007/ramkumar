@@ -1,0 +1,13 @@
+myName = input("What's your name?: ") 
+myage= input("How old are you? :")
+print("gae,that's REALLY OLD")
+replit = input("Do yoiu like Replit?")
+print("OF COURSE YOU DO!")
+print()
+print("So you are")
+print(myName)
+print("änd are the ripe old age of")
+print(myage)
+print("and clearly think that Replit is")
+print(replit)
+
